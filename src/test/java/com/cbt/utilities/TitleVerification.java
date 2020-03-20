@@ -1,4 +1,4 @@
-package java.com.cbt.utilities;
+package com.cbt.utilities;
 
 import org.openqa.selenium.WebDriver;
 

@@ -1,4 +1,4 @@
-package java.com.cbt.tests;
+package com.cbt.tests;
 
 import com.cbt.utilities.BrowserFactory;
 import com.cbt.utilities.StringUtility;
