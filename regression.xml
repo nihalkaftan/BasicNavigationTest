@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression-Suite" >
+    <test name="Package tests" >
+        <classes>
+            <class name="com.cbt.tests.NavigationTests" />
+            <class name="com.cbt.tests.RegistrationForm" />
+        </classes>
+    </test>
+    <test name="Package randomTests">
+        <packages>
+            <package name="com.cbt.tests.randomTests"/>
+        </packages>
+    </test>
+</suite>
