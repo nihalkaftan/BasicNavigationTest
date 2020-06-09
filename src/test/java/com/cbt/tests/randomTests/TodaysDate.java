@@ -32,8 +32,8 @@ public class TodaysDate {
         String currentDay = day.getFirstSelectedOption().getText();
 
         Assert.assertEquals(currentYear, "2020");
-        Assert.assertEquals(currentMonth, "May");
-        Assert.assertEquals(currentDay,"11");
+        Assert.assertEquals(currentMonth, "June");
+        Assert.assertEquals(currentDay,"09");
 
     }
 
